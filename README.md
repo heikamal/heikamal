@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a nerd with excellent communication skills.
+
+- 🔭 Currently working on my own projects and university work.
+- 🌱 Currently learning: C, Angular
+- 👯 Looking to work with a relaxed and supportive team.
+- 📌 Check pins for previous examples of work.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The president of the cold water club 2001 💪
+
 <!--
 **heikamal/heikamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
